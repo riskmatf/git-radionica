@@ -1,10 +1,11 @@
 # Git radionica
 <div style="text-align: center">
-<img style="margin: auto" src="https://i.imgur.com/85DJhms.png">
+<img style="margin: auto" src="https://i.imgur.com/vPIuIJr.png">
 </div>
 
 ## Termin
-27.10.2018 12:00 (**subota**)
+27.10.2018 12:00 (**subota**) 
+
 Predavac: Stevan Nestorovic
 
 # Git 
@@ -12,4 +13,8 @@ Za dobar razvoj softvera neophodno je dobro verzionisanje izvornog koda. Ovo zna
 
 ## Podesavanje okruzenja
 
-Na svom racunaru je potrebno instalirati git, dostupan je u repoima za sve linux distribucije. Takodje ce vam biti potreban terminal i editor teksta. 
+Na svom racunaru je potrebno instalirati git, dostupan je u repoima za sve linux distribucije. Takodje ce vam biti potreban terminal i editor teksta. Komande za instalaciju:
+- **ubuntu** `sudo apt install git`
+- **arch** `sudo pacman -S git`
+- **fedora** `dnf -y install git`
+- **windows** skinuti [ovaj](https://git-scm.com/download/win) fajl i instalirati
