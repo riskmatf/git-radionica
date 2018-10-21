@@ -1,6 +1,6 @@
 # Git radionica
 <div style="text-align: center">
-<img style="margin: auto" src="https://imgur.com/85DJhms">
+<img style="margin: auto" src="https://i.imgur.com/85DJhms.png">
 </div>
 
 ## Termin
