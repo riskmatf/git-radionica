@@ -18,3 +18,26 @@ Na svom racunaru je potrebno instalirati git, dostupan je u repoima za sve linux
 - **arch** `sudo pacman -S git`
 - **fedora** `dnf -y install git`
 - **windows** skinuti [ovaj](https://git-scm.com/download/win) fajl i instalirati
+
+# Korisni linkovi
+# Git
+- [Tutoriali](https://www.atlassian.com/git/tutorials)
+- [GitLab](https://about.gitlab.com/), besplatni privatni repozitorijumi
+- [BitBucket](https://bitbucket.org/), besplatni privatni repozitorijumi
+
+# GitHub
+- [GitHub Gist](https://gist.github.com/), kao pastebin samo bolje
+- [GitHub Education Pack](https://education.github.com/pack), besplatne stvari za studente
+- [Awesome Liste](https://github.com/sindresorhus/awesome), resursi za ucenje bilo kojeg jezika, framework-a ili tehnologija
+- [GitHub pages](https://pages.github.com/), na GH mozete besplatno hostovati staticke sajtove, jako korisna stvar
+- [Git source kod](https://github.com/git/git)
+- [Linux source kod](https://github.com/torvalds/linux)
+- [Python source kod](https://github.com/python/cpython)
+Skoro svaki open source projekat ima svoj github repozitorjum. 
+
+# Open Source
+- [vodic za open source ](https://opensource.guide/), od doprinosa do pokretanja sopstvenog open source projekta
+- [Up For Grabs](https://up-for-grabs.net/#/), sajt za pretrazivanje projekata kojima treba neki doprinos, mozete traziti po jeziku ili tipu problema
+- [RevolutionOS](https://www.youtube.com/watch?v=4vW62KqKJ5A), dokumentarac  o razvoju slobodnog softvera
+- [Choose a license](https://choosealicense.com), pregled licenci za softver
+
