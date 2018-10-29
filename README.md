@@ -30,6 +30,7 @@ Na svom racunaru je potrebno instalirati git, dostupan je u repoima za sve linux
 - [GitHub Education Pack](https://education.github.com/pack), besplatne stvari za studente
 - [Awesome Liste](https://github.com/sindresorhus/awesome), resursi za ucenje bilo kojeg jezika, framework-a ili tehnologija
 - [GitHub pages](https://pages.github.com/), na GH mozete besplatno hostovati staticke sajtove, jako korisna stvar
+- [Login bez sifre](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/), da ne bi morali da se logujete svaki put kada radite `push`
 - [Git source kod](https://github.com/git/git)
 - [Linux source kod](https://github.com/torvalds/linux)
 - [Python source kod](https://github.com/python/cpython)
@@ -40,4 +41,6 @@ Skoro svaki open source projekat ima svoj github repozitorjum.
 - [Up For Grabs](https://up-for-grabs.net/#/), sajt za pretrazivanje projekata kojima treba neki doprinos, mozete traziti po jeziku ili tipu problema
 - [RevolutionOS](https://www.youtube.com/watch?v=4vW62KqKJ5A), dokumentarac  o razvoju slobodnog softvera
 - [Choose a license](https://choosealicense.com), pregled licenci za softver
+- [F-droid](https://f-droid.org/en/), open source play store, svaka aplikacija je otvorenog koda
+- [LineageOS](https://lineageos.org/), odlicna alternativa androidu, sistem otvorenog koda, nije neophodan google nalog da bi se telefon koristio
 
