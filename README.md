@@ -34,6 +34,7 @@ Na svom racunaru je potrebno instalirati git, dostupan je u repoima za sve linux
 - [Git source kod](https://github.com/git/git)
 - [Linux source kod](https://github.com/torvalds/linux)
 - [Python source kod](https://github.com/python/cpython)
+
 Skoro svaki open source projekat ima svoj github repozitorjum. 
 
 # Open Source
